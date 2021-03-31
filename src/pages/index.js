@@ -8,6 +8,7 @@ export default function Home() {
       <Link to="/contact/">Contact</Link>
       <Header headerText="Hello Gatsby!" />
       <p>What a world.</p>
+      <p>Some more text</p>
       <img src="https://source.unsplash.com/random/400x200" alt="" />
     </div>
   );
